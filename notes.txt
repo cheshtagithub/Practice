@@ -1,1 +1,1 @@
-Today I am practicing git command. I will start with git init and commit and push it to github.
+I have already learned several command.
