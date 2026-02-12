@@ -1,0 +1,3 @@
+This is the file where i will write all the tasks i will do.
+I will update it everytime i learn something new.
+I have already pushed folder on git, now i will learn how to update changes.
